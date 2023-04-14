@@ -1,3 +1,4 @@
+from types import NotImplementedType
 from typing import Optional
 
 
@@ -19,7 +20,7 @@ class Arena(metaclass=BaseSingleton):
     game_is_running = False
     battle_result = None
 
-    def start_game(self, player, enemy):
+    def start_game(self, player: NotImplementedType, enemy: NotImplementedType) -> None:
         """
         НАЧАЛО ИГРЫ -> None
         присваиваем экземпляру класса аттрибуты "игрок" и "противник"
@@ -48,7 +49,7 @@ class Arena(metaclass=BaseSingleton):
             self.battle_result = "Противник победил"
         return self._end_game()
 
-    def _stamina_regeneration(self):
+    def _stamina_regeneration(self) -> None:
         """
         регенерация здоровья и стамины для игрока и врага за ход
         в этом методе к количеству стамины игрока и врага прибавляется константное значение.
