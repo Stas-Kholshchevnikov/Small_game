@@ -10,7 +10,7 @@
 
 Реализация Frontend с помощью ***html*** 
 # Стек
-***Python, Flask, Jinja2, Marshmallow, Mypy, Typing***
+***Python, Flask, Jinja2, Marshmallow, Docker, Mypy, Typing***
 
-<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/flask-white?style=for-the-badge&logo=flask&logoColor=blue"/> <img src="https://img.shields.io/badge/jinja2-white?style=for-the-badge&logo=flask&logoColor=blue"/> <img src="https://img.shields.io/badge/marshmallow-white?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/mypy-white?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/typing-white?style=for-the-badge&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/flask-white?style=for-the-badge&logo=flask&logoColor=blue"/> <img src="https://img.shields.io/badge/jinja2-white?style=for-the-badge&logo=flask&logoColor=blue"/> <img src="https://img.shields.io/badge/marshmallow-white?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=blue"/> <img src="https://img.shields.io/badge/mypy-white?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/typing-white?style=for-the-badge&logo=python&logoColor=blue"/>
 
